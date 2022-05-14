@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-pawn
+target: pawncc
+
+cmds:
+  - cmd: /repo/build/pawncc @@
+    filepath: test.p
