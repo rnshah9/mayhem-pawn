@@ -2,5 +2,4 @@ project: pawn
 target: pawncc
 
 cmds:
-  - cmd: /repo/build/pawncc test.p
-    filepath: test.p
+  - cmd: /repo/build/pawncc @@
