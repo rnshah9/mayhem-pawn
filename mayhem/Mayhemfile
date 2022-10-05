@@ -3,3 +3,4 @@ target: pawncc
 
 cmds:
   - cmd: /repo/build/pawncc @@
+    filepath: /test.p
